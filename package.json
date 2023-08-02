@@ -1,0 +1,27 @@
+{
+  "name": "blog-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --inspect index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/minhng-178/blog_nodejs.git"
+  },
+  "keywords": [
+    "blog"
+  ],
+  "author": "minhNVA",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/minhng-178/blog_nodejs/issues"
+  },
+  "homepage": "https://github.com/minhng-178/blog_nodejs#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^3.0.1"
+  }
+}
